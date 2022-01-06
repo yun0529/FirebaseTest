@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fireTest</string>
+    <string name="default_notification_channel_id">fireTest</string>
+    <string name="msg_token_fmt">테스트 알림</string>
+</resources>
